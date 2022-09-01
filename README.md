@@ -1,2 +1,2 @@
 # ShopAirCleaner
-Air Cleaner for Shop using ESP8266
+Wifi connected shop air cleaner using ESP8266
